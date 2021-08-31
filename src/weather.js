@@ -1,6 +1,5 @@
 import axios from "axios";
 import React, { useState } from "react";
-import ClipLoader from "react-spinners/ClipLoader";
 
 import "./App.css";
 
