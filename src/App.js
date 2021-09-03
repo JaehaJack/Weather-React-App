@@ -10,7 +10,11 @@ function App() {
       </div>
       <p>Open-sourced code by Jazmi C.</p>
       <p>
-        <a href="https://github.com/JaehaJack/Weather-React-App">
+        <a
+          href="https://github.com/JaehaJack/Weather-React-App"
+          target="_blank"
+          rel="noreferrer"
+        >
           Github repository
         </a>
       </p>
